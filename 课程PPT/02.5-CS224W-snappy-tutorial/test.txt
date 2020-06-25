@@ -1,0 +1,7 @@
+# Directed graph: test.txt 
+# List of edges
+# Nodes: 3 Edges: 3
+# FromNodeId	ToNodeId
+1	5
+5	1
+5	12
